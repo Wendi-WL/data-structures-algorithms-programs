@@ -1,4 +1,6 @@
-# Programs with applications of Data Structures and Algorithms
+# Data Structures and Algorithms Programs
+
+Below are descriptions of the 3 programs in this repo that have applications of different data structures and algorithms.
 
 ## 1. Image Chain Transformation
 
